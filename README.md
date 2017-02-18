@@ -9,7 +9,7 @@ Probability and Statistics
   </tr>
   <tr>
     <td>Subject</td>
-    <td><lliProbability and Statistics</td>
+    <td><li>Probability and Statistics</td>
   </tr>
   <tr>
     <td>Venue</td>
